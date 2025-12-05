@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+
+# Data store (if you are only using ephemeral storage)
+confessions_store.json

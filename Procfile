@@ -1,1 +1,1 @@
-web: python confession_bot.py
+web: python main_confession_bot.py

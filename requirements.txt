@@ -1,2 +1,3 @@
-python-telegram-bot
+python-telegram-bot[web]~=20.0
+python-dotenv
 pytz
